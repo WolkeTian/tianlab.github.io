@@ -23,28 +23,23 @@ cv:
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: 西南大学
+        area: 基础心理学
+        studyType: 博士
+        start_date: "2020-09"
+        end_date: "2024-06"
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: 西南大学
+        area: 基础心理学
+        studyType: 硕士
+        start_date: "2017-09"
+        end_date: "2020-06"
+
+      - institution: 山东财经大学
+        area: 人力资源管理
+        studyType: 学士
+        start_date: "2009-09"
+        end_date: "2013-06"
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
