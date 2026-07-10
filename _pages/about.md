@@ -2,7 +2,7 @@
 layout: about
 title: 田云
 permalink: /
-subtitle: 四川师范大学脑与心理科学研究院
+subtitle: 四川师范大学 脑与心理科学研究院
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>硕士生导师 / 助理研究员</p>
-    <p>四川师范大学脑与心理科学研究院</p>
+    <p>四川师范大学 脑与心理科学研究院</p>
     <p><a href="mailto:yun_psych@foxmail.com">yun_psych@foxmail.com</a></p>
     <p><a href="mailto:yun_tian@sicnu.edu.cn">yun_tian@sicnu.edu.cn</a></p>
 
@@ -28,11 +28,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-田云，硕士生导师、助理研究员，现任职于四川师范大学脑与心理科学研究院。
+硕士生导师、助理研究员。
 
 ## 研究领域
 
-利用行为学和神经影像学等手段，探讨睡眠、认知和心理健康的关联及其神经机制，尤其关注睡眠与认知表现及健康后果。
+实验室综合运用行为学与神经影像学等方法，探讨睡眠、认知功能与心理健康之间的关系及其神经机制。重点关注睡眠不足对认知加工的影响，包括新奇事件加工、工作记忆、警觉等认知功能，以及相关的个体差异和脑网络机制。
 
 ## 技术手段
 

@@ -9,7 +9,7 @@ last_name: 田
 contact_note: >
   联系邮箱：yun_psych@foxmail.com；yun_tian@sicnu.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  田云，四川师范大学脑与心理科学研究院硕士生导师、助理研究员，研究睡眠、认知与心理健康的关联及其神经机制。
+  田云，四川师范大学 脑与心理科学研究院硕士生导师、助理研究员，研究睡眠、认知与心理健康的关联及其神经机制。
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
