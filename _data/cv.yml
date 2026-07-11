@@ -24,12 +24,16 @@ cv:
         studyType: 博士
         start_date: "2020-09"
         end_date: "2024-06"
+        highlights:
+          - 导师：雷旭
 
       - institution: 西南大学
         area: 基础心理学
         studyType: 硕士
         start_date: "2017-09"
         end_date: "2020-06"
+        highlights:
+          - 导师：雷旭
 
       - institution: 山东财经大学
         area: 人力资源管理
@@ -38,5 +42,5 @@ cv:
         end_date: "2013-06"
 
     Hobbies:
-      - 斯诺克/台球，羽毛球，桌游，单机游戏等
-
+      - label: 兴趣
+        details: 斯诺克/台球、羽毛球、桌游、单机游戏等
