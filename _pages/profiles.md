@@ -2,27 +2,27 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the lab or group
+description: 实验室成员
 nav: true
 nav_order: 7
 
 profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    image: xing-xiao.png
+    content: member_xing_xiao.md
+    image_circular: false
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p><a href="mailto:paisleyxing222@gmail.com">paisleyxing222@gmail.com</a></p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    image: yao-zifeng.png
+    content: member_yao_zifeng.md
+    image_circular: false
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p><a href="mailto:markyz4180@gmail.com">markyz4180@gmail.com</a></p>
+  - align: right
+    image: xia-yanping.png
+    content: member_xia_yanping.md
+    image_circular: false
+    more_info: >
+      <p><a href="mailto:xiayanping323@163.com">xiayanping323@163.com</a></p>
 ---
