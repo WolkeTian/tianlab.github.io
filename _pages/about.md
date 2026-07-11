@@ -1,6 +1,6 @@
 ---
 layout: about
-title: 实验室负责人
+title: 睡眠与认知
 permalink: /
 subtitle: 四川师范大学 脑与心理科学研究院
 
@@ -9,7 +9,7 @@ profile:
   image: tian-yun.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>田云</p>
+    <p>基础心理学博士</p>
     <p>硕士生导师 / 助理研究员</p>
     <p>四川师范大学 脑与心理科学研究院</p>
     <p><a href="mailto:yun_psych@foxmail.com">yun_psych@foxmail.com</a></p>
