@@ -1,6 +1,6 @@
 ---
 layout: about
-title: 实验室负责人
+title: homepage
 permalink: /
 subtitle: 四川师范大学 脑与心理科学研究院
 
