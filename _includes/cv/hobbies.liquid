@@ -1,0 +1,17 @@
+{% for entry in entries %}
+  <div class="card-text font-weight-light">
+    {% if entry.label %}<strong>{{ entry.label }}:</strong> {% endif %}{{ entry.details }}
+  </div>
+  {% if entry.image %}
+    <figure class="mt-3 mb-0">
+      <img
+        src="{{ entry.image | relative_url }}"
+        alt="{{ entry.image_alt | default: entry.label }}"
+        width="1024"
+        height="1024"
+        loading="lazy"
+        style="width: 100%; max-width: 620px; height: auto; aspect-ratio: 1 / 1; object-fit: contain;"
+      >
+    </figure>
+  {% endif %}
+{% endfor %}

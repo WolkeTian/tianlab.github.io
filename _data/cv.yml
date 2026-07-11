@@ -81,3 +81,5 @@ cv:
     Hobbies:
       - label: 兴趣
         details: 斯诺克/台球、羽毛球、桌游、单机游戏等
+        image: /assets/img/cv/hobbies-collage.png
+        image_alt: 台球、羽毛球、桌游和单机游戏的兴趣拼图
