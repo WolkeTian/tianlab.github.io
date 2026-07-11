@@ -1,0 +1,18 @@
+{% for entry in entries %}
+  <div class="cv-list-item mb-3">
+    <div class="d-flex justify-content-between align-items-baseline">
+      <strong>{{ entry.name }}</strong>
+      {% if entry.date %}<span class="text-muted ml-3">{{ entry.date }}</span>{% endif %}
+    </div>
+    {% if entry.summary %}
+      <div class="font-weight-light">{{ entry.summary | markdownify | remove: '<p>' | remove: '</p>' }}</div>
+    {% endif %}
+    {% if entry.highlights %}
+      <ul class="font-weight-light mb-0">
+        {% for highlight in entry.highlights %}
+          <li>{{ highlight | markdownify | remove: '<p>' | remove: '</p>' }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  </div>
+{% endfor %}
