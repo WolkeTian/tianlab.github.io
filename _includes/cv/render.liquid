@@ -175,6 +175,9 @@
               {% elsif section_title == 'Academic meeting' %}
                 {% assign entries = section_entries %}
                 {% include cv/academic-meeting.liquid %}
+              {% elsif section_title == 'Hobbies' %}
+                {% assign entries = section_entries %}
+                {% include cv/hobbies.liquid %}
               {% elsif section_title == 'References' %}
                 {% assign entries = section_entries %}
                 {% include cv/references.liquid %}
@@ -390,5 +393,4 @@
     </div>
   </article>
 </div>
-
 
