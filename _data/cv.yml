@@ -36,3 +36,7 @@ cv:
         studyType: 学士
         start_date: "2009-09"
         end_date: "2013-06"
+
+    Hobbies:
+      - 斯诺克/台球，羽毛球，桌游，单机游戏等
+
