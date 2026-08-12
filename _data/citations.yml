@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-08-12'
 papers:
   bdB-uC4AAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -11,10 +11,10 @@ papers:
     year: '2022'
   bdB-uC4AAAAJ:9yKSN-GCB0IC:
     citations: 16
-    title: 'Enhanced anti-correlation between the dorsal attention and default-mode networks: a resting-state fMRI study of acute insomnia'
+    title: 'Enhanced anti-correlation between the dorsal attention and default-mode networks: A resting-state fMRI study of acute insomnia'
     year: '2021'
   bdB-uC4AAAAJ:Tyk-4Ss8FVUC:
-    citations: 21
+    citations: 20
     title: Connectome-based prediction of eating disorder-associated symptomatology
     year: '2023'
   bdB-uC4AAAAJ:UeHWp8X0CEIC:
@@ -34,11 +34,11 @@ papers:
     title: Volume of the Dentate Gyrus/CA4 Hippocampal subfield mediates the interplay between sleep quality and depressive symptoms
     year: '2024'
   bdB-uC4AAAAJ:Y0pCki6q_DkC:
-    citations: 23
+    citations: 24
     title: Functional connectivity between dorsal attention and default mode networks mediates subjective sleep duration and depression in young females
     year: '2023'
   bdB-uC4AAAAJ:YsMSGLbcyi4C:
-    citations: 13
+    citations: 15
     title: Functional connectivity from dorsolateral prefrontal cortex mediates the impact of social jetlag on depressive tendency in young adults
     year: '2023'
   bdB-uC4AAAAJ:_FxGoFyzp5QC:
@@ -46,7 +46,7 @@ papers:
     title: Gene expression is associated with brain function of insomnia disorder, rather than brain structure
     year: '2025'
   bdB-uC4AAAAJ:d1gkVwhDpl0C:
-    citations: 50
+    citations: 51
     title: Resting-state functional network connectivity underlying eating disorder symptoms in healthy young adults
     year: '2021'
   bdB-uC4AAAAJ:eQOLeE2rZwMC:
@@ -66,7 +66,7 @@ papers:
     title: 'Impaired emotional processing in insomnia: REM sleep beta power and frontal cortex activation'
     year: '2025'
   bdB-uC4AAAAJ:u-x6o8ySG0sC:
-    citations: 11
+    citations: 12
     title: 'Lying posture affects sleep structures and cortical activities: a simultaneous EEG-fMRI imaging of the sleeping and waking brain'
     year: '2021'
   bdB-uC4AAAAJ:u5HHmVD_uO8C:
@@ -75,5 +75,5 @@ papers:
     year: '2020'
   bdB-uC4AAAAJ:ufrVoPGSRksC:
     citations: 15
-    title: 'Enhanced diversity on connector hubs following sleep deprivation: Evidence from diffusion and functional magnetic resonance imaging'
+    title: 'Enhanced diversity on connector hubs following sleep deprivation: evidence from diffusion and functional magnetic resonance imaging'
     year: '2024'
