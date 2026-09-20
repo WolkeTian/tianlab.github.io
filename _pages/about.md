@@ -1,6 +1,6 @@
 ---
 layout: about
-title: 睡眠与认知
+title: 首页
 permalink: /
 subtitle: 四川师范大学 脑与心理科学研究院
 
@@ -29,7 +29,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-硕士生导师、助理研究员。
+硕士生导师、助理研究员
+
+田云
 
 ## 研究领域
 
