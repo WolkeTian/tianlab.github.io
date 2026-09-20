@@ -5,7 +5,8 @@ permalink: /projects/
 description: 研究项目
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [work]
+#display_categories: [work, fun]
 horizontal: false
 ---
 
