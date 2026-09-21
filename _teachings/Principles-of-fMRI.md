@@ -6,6 +6,7 @@ instructor: Martin Lindquist, PhD, MSc; Tor Wager, PhD.
 location: Coursera (online)
 time: 自主学习
 course_id: Principles-of-fMRI
+---
 
 ## Course Overview
 
