@@ -1,97 +1,33 @@
 ---
 layout: course
-title: Data Science Fundamentals
-description: This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.
-instructor: Prof. Data
-year: 2024
-term: Spring
-location: Science Building, Room 202
-time: Mondays and Wednesdays, 2:00-3:30 PM
-course_id: data-science-fundamentals
-schedule:
-  - week: 1
-    date: Feb 5
-    topic: Introduction to Data Science
-    description: Overview of the data science workflow and key concepts.
-    materials:
-      - name: Syllabus
-        url: /assets/pdf/example_pdf.pdf
-      - name: Slides
-        url: /assets/pdf/example_pdf.pdf
-
-  - week: 2
-    date: Feb 12
-    topic: Data Collection and APIs
-    description: Methods for collecting data through APIs, web scraping, and databases.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 1
-        url: /assets/pdf/example_pdf.pdf
-
-  - week: 3
-    date: Feb 19
-    topic: Data Cleaning and Preprocessing
-    description: Techniques for handling missing values, outliers, and data transformation.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Coding Lab
-        url: https://github.com/
-
-  - week: 4
-    date: Feb 26
-    topic: Exploratory Data Analysis
-    description: Descriptive statistics, visualization, and pattern discovery.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 2
-        url: /assets/pdf/example_pdf.pdf
-
-  - week: 5
-    date: Mar 4
-    topic: Statistical Analysis
-    description: Hypothesis testing, confidence intervals, and statistical inference.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Review Materials
-        url: /assets/pdf/example_pdf.pdf
-
-  - week: 6
-    date: Mar 11
-    topic: Data Visualization
-    description: Principles and tools for effective data visualization.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 3
-        url: /assets/pdf/example_pdf.pdf
----
+title: 核磁共振成像原理(Principles of fMRI)
+description: 来源：Coursera.  课程链接：https://www.coursera.org/learn/functional-mri. 
+instructor: Martin Lindquist, PhD, MSc; Tor Wager, PhD.
+location: Coursera (online)
+time: 自主学习
+course_id: Principles-of-fMRI
 
 ## Course Overview
 
-This course provides a comprehensive introduction to data science principles and practices. Students will:
+课程分为 Part 1 和 Part 2 两部分，系统介绍功能磁共振成像（fMRI）的基本原理与分析方法。主要内容包括 磁共振物理与 K空间、实验设计、fMRI 数据采集与预处理、广义线性模型（GLM）以及心理与神经科学推断等。
 
-- Learn the end-to-end data science workflow
-- Gain practical experience with data manipulation tools
-- Develop skills in data visualization and communication
-- Apply statistical methods to derive insights from data
+课程适合心理学、神经科学、医学、统计学、计算机科学等相关领域学习者，可作为入门 fMRI 方法学的系统课程。
+
+课程链接：https://www.coursera.org/learn/functional-mri.
+
+配套教材：https://leanpub.com/principlesoffmri.
+
 
 ## Prerequisites
 
-- Basic programming knowledge (preferably in Python)
-- Introductory statistics
-- Comfort with basic algebra
+- 心理学
+- 统计
 
 ## Textbooks
 
-- "Python for Data Analysis" by Wes McKinney
-- "Data Science from Scratch" by Joel Grus
+- "Handbook of Functional MRI Data Analysis" by Russell A. Poldrack et al.
+- "Principles of fMRI" by Wager, T. D., & Lindquist, M. A.
 
 ## Grading
 
-- Assignments: 50%
-- Project: 40%
-- Participation: 10%
+- 在线课程内置测验
