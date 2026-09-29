@@ -2,7 +2,7 @@
 layout: about
 title: 首页
 permalink: /
-subtitle: Sleep · Mind · Brain · 四川师范大学 脑与心理科学研究院
+subtitle: Sleep · Mind · Brain
 
 profile:
   align: right
@@ -39,7 +39,10 @@ latest_posts:
 
 ## 技术手段
 
-熟悉 MATLAB、Python、R 等平台与语言，擅长磁共振数据分析。
+心理统计学
+影像学：磁共振，电生理等
+计算工具：MATLAB、Python、R 等
+
 
 ## 学术主页
 
