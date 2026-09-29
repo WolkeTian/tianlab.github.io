@@ -2,7 +2,7 @@
 layout: about
 title: 首页
 permalink: /
-subtitle: Sleep · Mind · Brain
+subtitle: Sleep · Mind · Brain · 四川师范大学 脑与心理科学研究院
 
 profile:
   align: right
