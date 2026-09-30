@@ -25,4 +25,16 @@ profiles:
     image_circular: false
     more_info: >
       <p><a href="mailto:xiayanping323@163.com">xiayanping323@163.com</a></p>
+  - align: left
+    image: li-ruofan.jpeg
+    content: member_li_ruofan.md
+    image_circular: false
+    more_info: >
+      <p><a href="mailto:Irisfan27@gmail.com">Irisfan27@gmail.com</a></p>
+  - align: right
+    image: jiang-haihan.jpeg
+    content: member_jiang_haihan.md
+    image_circular: false
+    more_info: >
+      <p><a href="mailto:jiangjiangjiangh@gmail.com">jiangjiangjiangh@gmail.com</a></p>
 ---
